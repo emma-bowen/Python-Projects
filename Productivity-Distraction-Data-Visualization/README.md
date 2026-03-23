@@ -1,4 +1,4 @@
-# Visualizing Student Productivity and Distractions through Demographic and Academic Variables
+# Visualizing Student Productivity and Distraction through Demographic and Academic Variables
 
 ### Description
 This folder has the final report, information, and plots related to this python data visualization project. Throughout this report, skills used include python data cleaning, wrangling, manipulations, and visualizations. The packages used in this personal project were `pandas`, `matplotlib`, and `seaborn`. The dataset used, *Student Productivity & Digital Distraction Dataset*, was sourced from Kaggle and was created by Preet (2026). 
