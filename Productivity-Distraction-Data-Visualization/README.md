@@ -27,3 +27,9 @@ This folder has the final report, information, and plots related to this python 
 - Use python visualization packages to create several plots to present overall trends within the data
 
 ### Summary
+*  On average, `productivity_score` has a negative association with increased `phone_usage_hours`
+*  On average, `productivity_score` has a positive association with increased `study_hours_per_day`
+*  On average, `productivity_score` has a positive associaton with `attendance_percentage`
+*  Increased `stress_level` leads to decreased `productivity_score` among students.
+*  Students spend the most time distracted by `social_media_hours` amongst `youtube_hours` and `gaming_hours`
+*  On average, `sleep_hours` has a strong, positive association with `productivity_score`
