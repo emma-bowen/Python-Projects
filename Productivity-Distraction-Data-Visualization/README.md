@@ -17,6 +17,13 @@ This folder has the final report, information, and plots related to this python 
 - `seaborn`
 
 ### Methods
-
+- Load the packages above necessary for analysis
+- Read in the dataset, *student_productivity_distraction_dataset_20000.csv*
+- Identify the format of the data and the data types of the columns
+- Clean the dataset to remove NA values and duplicates
+- Derive summary statistics
+- Identify trends by comparing variables through data manipulations
+- Re-format the data frame to long format for visualizations
+- Use python visualization packages to create several plots to present overall trends within the data
 
 ### Summary
