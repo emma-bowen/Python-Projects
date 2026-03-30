@@ -1,4 +1,4 @@
-# Visualizing Student Productivity and Distraction through Demographic and Academic Variables
+# Visualizing Student Productivity and Distractions through Lifestyle and Academic Variables
 
 ### Description
 This folder has the final report, information, and plots related to this python data visualization project. Throughout this report, skills used include python data cleaning, wrangling, manipulations, and visualizations. The packages used in this personal project were `pandas`, `matplotlib`, and `seaborn`. The dataset used, *Student Productivity & Digital Distraction Dataset*, was sourced from Kaggle and was created by Preet (2026). 
@@ -33,3 +33,5 @@ This folder has the final report, information, and plots related to this python 
 *  Increased `stress_level` leads to decreased `productivity_score` among students.
 *  Students spend the most time distracted by `social_media_hours` amongst `youtube_hours` and `gaming_hours`
 *  On average, `sleep_hours` has a strong, positive association with `productivity_score`
+
+### Article References
