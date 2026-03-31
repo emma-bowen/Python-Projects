@@ -10,7 +10,7 @@ This folder has the final report, information, and plots related to this python 
 - **Citation**: Preet, M. 2026. *Student Productivity & Digital Distraction Dataset*. [Dataset]. Kaggle. https://www.kaggle.com/datasets/sehaj1104/student-productivity-and-digital-distraction-dataset/data.
 
 ### Project Files
-Productivity-Distraction-Data-Visualization/student-distractions-data-visualization.ipynb
+Productivity-Distraction-Data-Visualization/student-distractions-data-visualization.ipynb  
 Productivity-Distraction-Data-Visualization/student-distractions-data-visualization.html
 
 ### Python Packages
