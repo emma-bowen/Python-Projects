@@ -37,6 +37,6 @@ This folder has the final report, information, and plots related to this python 
 *  On average, `sleep_hours` has a strong, positive association with `productivity_score`
 
 ### Article References
-Hatfield, J. (2024). 72% of U.S. high school teachers say cellphone distraction is a major problem in the classroom. Pew Research Center. https://www.pewresearch.org/short-reads/2024/06/12/72-percent-of-us-high-school-teachers-say-cellphone-distraction-is-a-major-problem-in-the-classroom/.
-National Sleep Foundation. (2025). Good Sleep? Good Job! How Sleep Health Boosts Productivity. https://www.thensf.org/sleep-and-productivity/.
+Hatfield, J. (2024). 72% of U.S. high school teachers say cellphone distraction is a major problem in the classroom. Pew Research Center. https://www.pewresearch.org/short-reads/2024/06/12/72-percent-of-us-high-school-teachers-say-cellphone-distraction-is-a-major-problem-in-the-classroom/.  
+National Sleep Foundation. (2025). Good Sleep? Good Job! How Sleep Health Boosts Productivity. https://www.thensf.org/sleep-and-productivity/.  
 Preet, M. (2026). Student Productivity & Digital Distraction Dataset. [Data set]. Kaggle. https://www.kaggle.com/datasets/sehaj1104/student-productivity-and-digital-distraction-dataset/data.
