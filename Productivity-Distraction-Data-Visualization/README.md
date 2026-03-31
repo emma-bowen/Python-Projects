@@ -11,7 +11,7 @@ This folder has the final report, information, and plots related to this python 
 
 ### Project Files
 Productivity-Distraction-Data-Visualization/student-distractions-data-visualization.ipynb
-- `student-distractions-data-visualization.html`
+Productivity-Distraction-Data-Visualization/student-distractions-data-visualization.html
 
 ### Python Packages
 - `pandas`
